@@ -23,4 +23,4 @@ Intentar centralizar, de alguna forma, toda esa información que está diseminad
 Licencia
 ========
 
-MIT
+Cada carpeta incluirá su propia licencia. En caso de que no se incluya licencia se aplicará licencia MIT a esa carpeta.
