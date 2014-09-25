@@ -24,7 +24,7 @@ Intentar centralizar, de alguna forma, toda esa información que está diseminad
 Normas básicas
 ==============
 
-El material que incluyas debe haber sido generado por to o debe tener una licencia que permita hacer lo que estamos haciendo.
+El material que incluyas debe haber sido generado por ti o debe tener una licencia que permita hacer lo que estamos haciendo.
 
 Si, por la razón que sea, quieres eliminar materialo incluido previamente, abre una [issue](https://github.com/Python-en-ciencia/Python-cientifico/issues) y nos encargaremos de ello.
 
