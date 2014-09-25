@@ -7,4 +7,4 @@ La charla muestra parte de la funcionalidad más importante de Pandas.
 
 Para poder usar los datos de muestra deberás tener el notebook y los datos en la misma carpeta.
 
-Puedes ver el contenido del notebook en el [siguiente enlace](http://nbviewer.ipython.org/).
+Puedes ver el contenido del notebook en el [siguiente enlace](http://nbviewer.ipython.org/github/Python-en-ciencia/Python-cientifico/blob/master/Pandas-201405-pythonmadrid-kikocorreoso/Pandas_PyMAD_201405.ipynb).
