@@ -1,4 +1,4 @@
-Charla - Taller sobre Python científico en la PyConES 2014 por Cacheme y Pybonacci
+Charla - Taller sobre Python científico en la PyConES 2014 por CAChemE y Pybonacci
 ==================================================================================
 
 Esta charla-taller se presentó en la [PyConES 2014](http://2014.es.pycon.org/) en noviembre de 2014.
