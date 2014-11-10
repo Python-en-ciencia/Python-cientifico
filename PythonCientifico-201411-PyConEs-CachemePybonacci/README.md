@@ -9,6 +9,7 @@ La charla-taller muestra parte de las bibliotecas más importantes del ecosistem
 * 02 | [SymPy](http://nbviewer.ipython.org/github/Python-en-ciencia/Python-cientifico/blob/master/PythonCientifico-201411-PyConEs-CachemePybonacci/02-Introduccion-SimPy.ipynb)
 * 03 | [Introducción a SciPy](http://nbviewer.ipython.org/github/Python-en-ciencia/Python-cientifico/blob/master/PythonCientifico-201411-PyConEs-CachemePybonacci/03-Intro-SciPy.ipynb): Ejercicio de EDOs [(modelo epidemiológico SEIR del virus del Ébola)](http://nbviewer.ipython.org/github/Python-en-ciencia/Python-cientifico/blob/master/PythonCientifico-201411-PyConEs-CachemePybonacci/03-Scipy-ejercicio-ODEs-ebola.ipynb)
 * 04 | [Pandas](http://nbviewer.ipython.org/github/Python-en-ciencia/Python-cientifico/blob/master/PythonCientifico-201411-PyConEs-CachemePybonacci/Pandas_PyConES_201411.ipynb)
+* 05 | [Enseñando Python científico: lecciones aprendidas](http://www.slideshare.net/CAChemE/python-en-ingenieria-lecciones-aprendidas)
 
 La mayor parte de contenido de este Taller proviene del [Curso de AeroPython](https://github.com/AeroPython/Curso_AeroPython) de [Pybonacci](http://pybonacci.og) y del [Curso de online de introducción a Python para científicos e ingenieros](http://cacheme.org/curso-online-python-cientifico-ingenieros/) (con las clases grabadas en [vídeo](https://www.youtube.com/playlist?list=PLGBbVX_WvN7bMwYe7wWV5TZt1a58jTggB)).
 
