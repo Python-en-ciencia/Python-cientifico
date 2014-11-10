@@ -27,5 +27,5 @@ Otras referencias importantes que demuestran el potencial de Python en el ámbit
 * [Diez consejos para un mejor software (de) científico(s)](https://github.com/mgaitan/10consejos) - Martín Gaitán
 
 
-Tal y cómo apuntamos en nuestra charla, también recomendamos las [lecciones de Software-Carpentry](http://software-carpentry.org/lessons.html) para los más novatos.
+Tal y como apuntamos en nuestra charla, también recomendamos las [lecciones de Software-Carpentry](http://software-carpentry.org/lessons.html) para los más novatos.
 
