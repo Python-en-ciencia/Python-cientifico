@@ -18,7 +18,7 @@ La mayor parte de contenido de este Taller proviene del [Curso de AeroPython](ht
 Otras referencias importantes que demuestran el potencial de Python en el ámbito científico-ingenieril son:
 
 * [Practical Numerical Methods in Python](https://github.com/numerical-mooc/numerical-mooc#practical-numerical-methods-in-python) - Lorena Barba et al.
-* [Aerodynamics-Hydrodynamics with Python](https://github.com/barbagroup/AeroPython) - Loreba Barba
+* [Aerodynamics-Hydrodynamics with Python](https://github.com/barbagroup/AeroPython) - Lorena Barba
 * [12 Steps to Navier Stokes](https://github.com/barbagroup/CFDPython) - Lorena Barba
 * [Scientific computing projects](http://jrjohansson.github.io/) - J.R. Johannson
 * [Quantitative Economics](http://quant-econ.net/py/index.html) - Thomas J. Sargent & John Stachurski
