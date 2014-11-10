@@ -23,9 +23,9 @@ Otras referencias importantes que demuestran el potencial de Python en el ámbit
 * [Scientific computing projects](http://jrjohansson.github.io/) - J.R. Johannson
 * [Quantitative Economics](http://quant-econ.net/py/index.html) - Thomas J. Sargent & John Stachurski
 * [A Success Story in Using Python in a Graduate Chemical Engineering Course](https://www.youtube.com/watch?v=IsSMs-4GlT8) - John Kitchin
-
 * [Tutorial de Python para ciencias e ingenierías](https://github.com/mgaitan/curso-python-cientifico#tutorial-de-python-para-ciencias-e-ingenier%C3%ADas) - Martín Gaitán
 * [Diez consejos para un mejor software (de) científico(s)](https://github.com/mgaitan/10consejos) - Martín Gaitán
+
 
 Tal y cómo apuntamos en nuestra charla, también recomendamos las [lecciones de Software-Carpentry](http://software-carpentry.org/lessons.html) para los más novatos.
 
