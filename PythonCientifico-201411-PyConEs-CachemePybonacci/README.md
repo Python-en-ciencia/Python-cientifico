@@ -5,4 +5,7 @@ Esta charla-taller se presentó en la [PyConES 2014](http://2014.es.pycon.org/) 
 
 La charla-taller muestra parte de las bibliotecas más importantes del ecosistema científico Python.
 
-[A actualizar].
+* 01 | Introducción a Python científico: [NumPy, matplotlib e IPython Notebook]()
+* 02 | [SymPy]()
+* 03 | [Introducción a SciPy]()
+* 04 | [Pandas]()
