@@ -6,7 +6,7 @@ Esta charla-taller se presentó en la [PyConES 2014](http://2014.es.pycon.org/) 
 La charla-taller muestra parte de las bibliotecas más importantes del ecosistema científico Python.
 
 * 01 | [Introducción a Python científico: NumPy, matplotlib e IPython Notebook](http://nbviewer.ipython.org/github/Python-en-ciencia/Python-cientifico/blob/master/PythonCientifico-201411-PyConEs-CachemePybonacci/01_IPython-NumPy-matplotlib.ipynb)
-* 02 | [SymPy](http://nbviewer.ipython.org/github/Python-en-ciencia/Python-cientifico/blob/master/PythonCientifico-201411-PyConEs-CachemePybonacci/02-Introduccion-SimPy.ipynb)
+* 02 | [SymPy](http://nbviewer.ipython.org/github/Python-en-ciencia/Python-cientifico/blob/master/PythonCientifico-201411-PyConEs-CachemePybonacci/02-Introduccion-SymPy.ipynb)
 * 03 | [Introducción a SciPy](http://nbviewer.ipython.org/github/Python-en-ciencia/Python-cientifico/blob/master/PythonCientifico-201411-PyConEs-CachemePybonacci/03-Intro-SciPy.ipynb): Ejercicio de EDOs [(modelo epidemiológico SEIR del virus del Ébola)](http://nbviewer.ipython.org/github/Python-en-ciencia/Python-cientifico/blob/master/PythonCientifico-201411-PyConEs-CachemePybonacci/03-Scipy-ejercicio-ODEs-ebola.ipynb)
 * 04 | [Pandas](http://nbviewer.ipython.org/github/Python-en-ciencia/Python-cientifico/blob/master/PythonCientifico-201411-PyConEs-CachemePybonacci/Pandas_PyConES_201411.ipynb)
 * 05 | [Enseñando Python científico: lecciones aprendidas](http://www.slideshare.net/CAChemE/python-en-ingenieria-lecciones-aprendidas)
