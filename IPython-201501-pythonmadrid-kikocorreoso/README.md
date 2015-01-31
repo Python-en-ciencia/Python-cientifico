@@ -1,4 +1,4 @@
-Charla de Kiko sobre ¿cómo crear extensiones de IPython? en Python Madrid (enero 2015).
+Charla de [Kiko](https://github.com/kikocorreoso) sobre ¿cómo crear extensiones de IPython? en Python Madrid (enero 2015).
 
 Enlaces a los notebooks desde [aquí](http://nbviewer.ipython.org/github/Python-en-ciencia/Python-cientifico/tree/master/IPython-201501-pythonmadrid-kikocorreoso/).
 
